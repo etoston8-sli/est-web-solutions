@@ -1,6 +1,6 @@
 // Replace the empty value with the email address you want clients to use.
 // Example: const BUSINESS_EMAIL = "hello@example.com";
-const BUSINESS_EMAIL = "";
+const BUSINESS_EMAIL = "estwebsolutions@gmail.com";
 
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#primary-nav');
